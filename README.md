@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Libra  
+# 👋 Hi, I'm Libra
 
 🌟 Tech Enthusiast | 🚀 Web Developer | 🔐 Security Learner  
 
@@ -9,10 +9,3 @@
 
 ## 📊 GitHub Stats
 ![Libra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libra2694&show_icons=true&theme=tokyonight)
-
-## 🚀 Top Projects
-- [📚 Web Perpustakaan Digital](https://github.com/Libra2694/web-perpustakaan)
-- [🛒 Dashboard Toko Sayur](https://github.com/Libra2694/toko-sayur)
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Libra2694/Libra2694/blob/output/github-contribution-grid-snake.svg)
