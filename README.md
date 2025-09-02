@@ -7,11 +7,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently learning **Web Development & Cybersecurity**  
-- 🌱 Exploring **Laravel, TailwindCSS, and AI Tools**  
-- 💬 Ask me about **Tech, Security, or Backend Stuff**  
-- 🎯 Goal: Becoming a **Fullstack Dev + Security Enthusiast**  
+### 👨‍💻 About Me  
+🌟 **Tech Enthusiast, Web Developer & Designer**  
+
+- 🔭 Currently learning **Web Development, Graphic Design, Web Design & Cybersecurity**  
+- 🌱 Exploring **Laravel, TailwindCSS, AI Tools, and Tools Hacking**  
+- 🔐 Curious about **Cyber Security & Hacking**  
+- 📚 Currently diving into **Laravel, Tailwind, and System Security**  
+- 🎯 Goal: Becoming a **Fullstack Dev + Security Enthusiast**, and build **useful tech that helps people**  
 - ⚡ Fun fact: I love building things solo but dream of having my own dev team 🚀  
 
 ---
@@ -42,19 +45,17 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Libra2694/Libra2694/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
 <a href="https://github.com/Libra2694"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alif-aditya-57b198345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/alif_id26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/6285267100674"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://x.com/libra_id26"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://t.me/libra_id26"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://discord.gg/pxVmpaWG"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
 
 ---
 
