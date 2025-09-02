@@ -1,13 +1,32 @@
-<h1 align="center">Hi 👋, I'm Libra</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hi%20👋,%20I'm%20Libra!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h3 align="center">🌟 Tech Explorer | 💻 Developer | 🔒 Cybersecurity Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 - 🔭 Currently learning **Web Development & Cybersecurity**  
 - 🌱 Exploring **Laravel, TailwindCSS, and AI Tools**  
 - 💬 Ask me about **Tech, Security, or Backend Stuff**  
+- 🎯 Goal: Becoming a **Fullstack Dev + Security Enthusiast**  
 - ⚡ Fun fact: I love building things solo but dream of having my own dev team 🚀  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
@@ -17,17 +36,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libra2694&layout=compact&theme=radical" alt="langs" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Libra2694&theme=radical" alt="streak" height="160"/>
+</p>
+
 ---
 
-### 🐍 Snake Animation
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Libra2694/Libra2694/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Libra2694/Libra2694/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://github.com/Libra2694"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -35,15 +58,8 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=100&section=footer"/>
 </p>
-
----
 
 ⭐️ From [Libra2694](https://github.com/Libra2694)
