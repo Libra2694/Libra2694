@@ -30,6 +30,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+---
+
+### 🎨 Design Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
@@ -43,6 +51,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Libra2694&theme=radical" alt="streak" height="160"/>
 </p>
 
+---
+
+### 🐍 Snake Animation
+<p align="center">
+  <img src="https://github.com/Libra2694/Libra2694/blob/output/snake.svg" alt="snake animation" />
+</p>
 ---
 
 ### 🌐 Connect With Me
