@@ -7,45 +7,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
+🌟 **Tech Enthusiast, Web Developer & Designer**  
+
 - 🔭 Currently learning **Web Development, Graphic Design, Web Design & Cybersecurity**  
 - 🌱 Exploring **Laravel, TailwindCSS, AI Tools, and Tools Hacking**  
-- 🎯 Goal: Becoming a **Fullstack Dev + Security Enthusiast**  
+- 🔐 Curious about **Cyber Security & Hacking**  
+- 📚 Currently diving into **Laravel, Tailwind, and System Security**  
+- 🎯 Goal: Becoming a **Fullstack Dev + Security Enthusiast**, and build **useful tech that helps people**  
 - ⚡ Fun fact: I love building things solo but dream of having my own dev team 🚀  
-
-🌟 Tech Enthusiast & Web Developer  
-- 🔐 Curious about Cyber Security & Hacking  
-- 📚 Currently learning **Laravel, Tailwind, and System Security**  
-- 🎯 Goal: Build useful tech that helps people  
-
----
-
-### 🛠️ Skills & Tools  
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,react" />
-  <br>
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=php,js,python,html,css" />
-  <br>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Libra2694&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libra2694&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Libra2694/Libra2694/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
 
 ---
 
