@@ -39,7 +39,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Libra2694/Libra2694/blob/output/snake.svg" alt="snake animation" />
 </p>
