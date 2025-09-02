@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/coreldraw-2019.svg" height="40" alt="coreldraw"/>
+  <img src="https://www.vectorlogo.zone/logos/coreldraw/coreldraw-icon.svg" height="40" alt="coreldraw"/>
 </p>
 
 ---
