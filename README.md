@@ -21,7 +21,7 @@
 
 ### 🐍 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Libra2694/Libra2694/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Libra2694/Libra2694/blob/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
