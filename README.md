@@ -33,9 +33,8 @@
 ---
 
 # 🚀 Top Projects
-- [📚 Web Perpustakaan Digital](https://github.com/Libra2694/web-perpustakaan)  
-- [🛒 Dashboard Toko Sayur](https://github.com/Libra2694/toko-sayur)  
-- [📝 Blog Laravel 12](https://github.com/Libra2694/libra-blog)  
+- [📖 TEFA](https://github.com/Libra2694/TEFA)  
+- [🤖 Aisyah AI (AisyahBot-py)](https://github.com/Libra2694/AisyahBot-py)  
 
 ---
 
