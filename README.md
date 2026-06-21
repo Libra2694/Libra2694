@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alif+Aditya+👋;Web+Developer+Enthusiast+💻;Cybersecurity+Explorer+🔐;Hustle+in+silence,+let+success+make+the+noise;Fokus+pada+proses,+hasil+tidak+akan+mengkhianati;Building+cool+things+at+DevAudit-Local" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=Fullstack+Developer;Cybersecurity+Enthusiast;Creator+of+DevAudit-Local" alt="Typing SVG" />
   </a>
 </p>
 
