@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hi%20👋,%20I'm%20Libra!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=Fullstack+Developer;Cybersecurity+Enthusiast;Creator+of+DevAudit-Local" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">🌟 Tech Explorer | 💻 Developer | 🔒 Cybersecurity Enthusiast</h3>
 
 ---
@@ -73,13 +79,19 @@ A zero-configuration security auditing and response latency profiling proxy for 
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Libra2694&theme=radical" alt="Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🐍 Snake Animation
-<!-- <p align="center">
-  <img src="https://github.com/Libra2694/Libra2694/blob/output/snake.svg" alt="snake animation" />
-</p> -->
-![](https://raw.githubusercontent.com/yurisaiko/yurisaiko/master/profile-3d-contrib/profile-green-animate.svg)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Libra2694&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Cybersecurity+Enthusiast;Creator+of+DevAudit-Local)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Libra2694/Libra2694/output/snake.svg" alt="snake animation" />
+</p>
 
 ---
 
