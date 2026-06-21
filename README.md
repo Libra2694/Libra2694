@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Talk+is+cheap.+Show+me+the+code.;Explore.+Create.+Secure.;Code+is+poetry+in+motion.;Stay+hungry,+stay+foolish.;Building+things+with+code+and+passion." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Stay+hungry,+stay+foolish,+and+keep+building!+🚀;Code+is+like+poetry;+write+it+clean+and+secure.+✨;Mimpi+tak+kan+terwujud+tanpa+aksi+nyata.+🌟;Securing+the+web,+one+header+at+a+time.+🛡️" alt="Typing SVG" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@ A zero-configuration security auditing and response latency profiling proxy for 
 
 ### 🐍 Snake Animation
 <p align="center">
-   <img src="https://github.com/Libra2694/Libra2694/blob/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Libra2694/Libra2694/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
