@@ -74,9 +74,10 @@ A zero-configuration security auditing and response latency profiling proxy for 
 ---
 
 ### 🐍 Snake Animation
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Libra2694/Libra2694/blob/output/snake.svg" alt="snake animation" />
-</p>
+</p> -->
+![](https://raw.githubusercontent.com/yurisaiko/yurisaiko/master/profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
