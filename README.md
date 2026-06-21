@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=Fullstack+Developer;Cybersecurity+Enthusiast;Creator+of+DevAudit-Local" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Talk+is+cheap.+Show+me+the+code.;Explore.+Create.+Secure.;Code+is+poetry+in+motion.;Stay+hungry,+stay+foolish.;Building+things+with+code+and+passion." alt="Typing SVG" />
   </a>
 </p>
 
@@ -75,15 +75,6 @@ A zero-configuration security auditing and response latency profiling proxy for 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Libra2694&theme=radical" alt="streak" height="160"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Libra2694&theme=radical" alt="Trophies" />
-  </a>
 </p>
 
 ---
