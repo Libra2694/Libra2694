@@ -19,6 +19,24 @@
 
 ---
 
+### 🛡️ Featured Project: [DevAudit-Local](https://github.com/Libra2694/devaudit-local)
+
+<p align="center">
+  <a href="https://github.com/Libra2694/devaudit-local">
+    <img src="https://raw.githubusercontent.com/Libra2694/devaudit-local/main/assets/dashboard-preview.png" alt="DevAudit-Local Dashboard" width="80%" style="border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);" />
+  </a>
+</p>
+
+A zero-configuration security auditing and response latency profiling proxy for local development servers, featuring a gorgeous real-time glassmorphic dashboard.
+
+- ⚡ **Zero Code Modification**: Just run it alongside your local server (Vite, Laragon, XAMPP, Node, Python).
+- 🔒 **Instant Audits**: Automatically flags missing CSP, CORS wildcards, clickjacking vulnerabilities, and insecure cookies.
+- 📊 **WebSocket Stream**: Live SVG latency charting and detailed header/cookie warning inspections.
+
+👉 **Check it out and leave a ⭐️: [DevAudit-Local Repository](https://github.com/Libra2694/devaudit-local)**
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
