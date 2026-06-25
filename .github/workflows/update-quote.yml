@@ -1,0 +1,21 @@
+name: Update Quote in README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch and Update Quote
+        uses: siddharth2016/quote-readme@main
+        with:
+          COMMIT_MESSAGE: "chore: update random quote"

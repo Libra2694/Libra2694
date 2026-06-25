@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quotes" />
-  </a>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 </p>
 
 <h3 align="center">🌟 Tech Explorer | 💻 Developer | 🔒 Cybersecurity Enthusiast</h3>
