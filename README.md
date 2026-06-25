@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-STARTS_HERE_QUOTE_README
-ENDS_HERE_QUOTE_README
+<!-- STARTS_HERE_QUOTE_README
+ENDS_HERE_QUOTE_README -->
 </p>
 
 <h3 align="center">🌟 Tech Explorer | 💻 Developer | 🔒 Cybersecurity Enthusiast</h3>
