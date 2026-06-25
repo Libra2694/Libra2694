@@ -15,7 +15,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch and Update Quote
-        uses: siddharth2016/quote-readme@main
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          COMMIT_MESSAGE: "chore: update random quote"
+          node-version: '18'
+
+      - name: Update Typing SVG Quotes
+        run: node scripts/update-typing-quotes.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update random typing quotes"
+          git push origin main
