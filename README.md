@@ -76,8 +76,8 @@ ENDS_HERE_QUOTE_README -->
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Libra2694&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Libra2694&layout=compact&theme=radical" alt="langs" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Libra2694&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Libra2694&layout=compact&theme=radical" alt="langs" height="160"/>
 </p>
 
 <p align="center">
