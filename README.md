@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Setiap+akhir+adalah+awal+yang+baru.;The+best+way+to+predict+the+future+is+to+invent+it.;Every+moment+is+a+fresh+beginning.;Time+is+a+river+of+passing+events.;Fokus+pada+proses+hasil+takkan+mengkhianati.;Code+never+lies+comments+sometimes+do.;Menanti+fajar+di+batas+cakrawala." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hustle+in+silence+let+success+make+the+noise.;Strive+not+to+be+a+success+but+rather+to+be+of+value.;Terang+akan+datang+setelah+gulita.;Setiap+akhir+adalah+awal+yang+baru.;Silence+is+the+canvas+of+deep+thoughts.;Make+it+simple+but+significant.;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
