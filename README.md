@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Dalam+hening+kita+merajut+mimpi.;Fokus+pada+proses+hasil+takkan+mengkhianati.;Rintangan+adalah+jembatan+menuju+kekuatan.;Karya+terbaik+lahir+dari+ketekunan+tiada+henti.;Hustle+in+silence+let+success+make+the+noise.;Keberhasilan+dimulai+dari+keputusan+untuk+mencoba.;To+seek+is+to+find+to+build+is+to+live." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=What+we+think+we+become.;The+best+way+to+predict+the+future+is+to+invent+it.;Not+all+those+who+wander+are+lost.;Strive+not+to+be+a+success+but+rather+to+be+of+value.;Create+your+own+sunshine+on+cloudy+days.;Sebuah+kode+sejuta+cerita.;Fokus+pada+proses+hasil+takkan+mengkhianati." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
