@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Hidup+adalah+seni+menggambar+tanpa+penghapus.;Kebenaran+kode+berada+pada+baris+eksekusi.;Menulis+kode+membelah+sunyinya+malam.;Logic+will+get+you+from+A+to+B+imagination+will+take+you+everywhere.;Mimpi+tanpa+aksi+hanyalah+ilusi.;Setiap+langkah+adalah+bagian+dari+cerita." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Karya+terbaik+lahir+dari+ketekunan+tiada+henti.;Errors+are+proof+that+you+are+trying.;Silence+is+the+canvas+of+deep+thoughts.;In+the+middle+of+difficulty+lies+opportunity.;Mimpi+tanpa+aksi+hanyalah+ilusi.;Lost+time+is+never+found+again.;Waktu+terus+berjalan+tanpa+pernah+menunggu." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
