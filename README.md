@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Dalam+hening+kita+merajut+mimpi.;Dalam+baris+kode+terdapat+bait-bait+harapan.;Hidup+adalah+seni+menggambar+tanpa+penghapus.;Terang+akan+datang+setelah+gulita.;Hustle+in+silence+let+success+make+the+noise.;Rintangan+adalah+jembatan+menuju+kekuatan.;Setiap+akhir+adalah+awal+yang+baru." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Karya+terbaik+lahir+dari+ketekunan+tiada+henti.;Detail+kecil+menciptakan+kesempurnaan.;Simplicity+is+the+ultimate+sophistication.;Every+moment+is+a+fresh+beginning.;Secangkir+kopi+sebaris+kode+sejuta+mimpi.;Simplicity+is+key+to+beautiful+code.;Terang+akan+datang+setelah+gulita." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
