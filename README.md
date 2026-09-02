@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Dream+without+fear+code+without+limits.;Menulis+kode+membelah+sunyinya+malam.;Satu+langkah+kecil+hari+ini+adalah+awal+lompatan+besar+esok+hari.;Rintangan+adalah+jembatan+menuju+kekuatan.;Dalam+baris+kode+terdapat+bait-bait+harapan.;Not+all+those+who+wander+are+lost.;Strive+not+to+be+a+success+but+rather+to+be+of+value." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Programs+must+be+written+for+people+to+read.;Time+is+a+river+of+passing+events.;Talk+is+cheap.+Show+me+the+code.;Jangan+biarkan+hari+kemarin+menyita+hari+ini.;Make+it+simple+but+significant.;Strive+not+to+be+a+success+but+rather+to+be+of+value.;Mimpi+tanpa+aksi+hanyalah+ilusi." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
