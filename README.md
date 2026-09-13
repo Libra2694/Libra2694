@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Code+is+poetry+written+in+logic.;Silence+is+the+canvas+of+deep+thoughts.;Make+it+simple+but+significant.;Dream+without+fear+code+without+limits.;Be+a+voice+not+an+echo.;What+we+think+we+become.;Rintangan+adalah+jembatan+menuju+kekuatan." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Be+a+voice+not+an+echo.;Menulis+kode+membelah+sunyinya+malam.;Fokus+pada+proses+hasil+takkan+mengkhianati.;The+best+way+to+predict+the+future+is+to+invent+it.;Rintangan+adalah+jembatan+menuju+kekuatan.;Silence+is+the+canvas+of+deep+thoughts.;Satu+langkah+kecil+hari+ini+adalah+awal+lompatan+besar+esok+hari." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
