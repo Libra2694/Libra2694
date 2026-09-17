@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Time+is+a+river+of+passing+events.;Lost+time+is+never+found+again.;Create+your+own+sunshine+on+cloudy+days.;Detail+kecil+menciptakan+kesempurnaan.;Sunyi+malam+adalah+teman+terbaik+sang+pemikir.;Strive+not+to+be+a+success+but+rather+to+be+of+value.;Waktu+terus+berjalan+tanpa+pernah+menunggu." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Lost+time+is+never+found+again.;Before+software+can+be+reusable+it+first+has+to+be+usable.;Talk+is+cheap.+Show+me+the+code.;Menanti+fajar+di+batas+cakrawala.;Setiap+akhir+adalah+awal+yang+baru.;Terang+akan+datang+setelah+gulita.;Code+is+poetry+written+in+logic." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
