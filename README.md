@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Silence+is+the+canvas+of+deep+thoughts.;Time+is+a+river+of+passing+events.;Errors+are+proof+that+you+are+trying.;Simplicity+is+the+ultimate+sophistication.;Simplicity+is+key+to+beautiful+code.;Create+your+own+sunshine+on+cloudy+days.;Hidup+adalah+seni+menggambar+tanpa+penghapus." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Not+all+those+who+wander+are+lost.;Menanti+fajar+di+batas+cakrawala.;Simplicity+is+key+to+beautiful+code.;Karya+terbaik+lahir+dari+ketekunan+tiada+henti.;Make+it+simple+but+significant.;Secangkir+kopi+sebaris+kode+sejuta+mimpi.;Errors+are+proof+that+you+are+trying." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
