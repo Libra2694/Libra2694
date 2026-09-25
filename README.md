@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Secangkir+kopi+sebaris+kode+sejuta+mimpi.;Create+your+own+sunshine+on+cloudy+days.;Be+a+voice+not+an+echo.;Silence+is+the+canvas+of+deep+thoughts.;Keberhasilan+dimulai+dari+keputusan+untuk+mencoba.;To+seek+is+to+find+to+build+is+to+live.;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Not+all+those+who+wander+are+lost.;Talk+is+cheap.+Show+me+the+code.;Terang+akan+datang+setelah+gulita.;Lost+time+is+never+found+again.;Setiap+akhir+adalah+awal+yang+baru.;To+seek+is+to+find+to+build+is+to+live.;Dream+without+fear+code+without+limits." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
