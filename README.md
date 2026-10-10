@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Time+is+a+river+of+passing+events.;Silence+is+the+canvas+of+deep+thoughts.;Logic+will+get+you+from+A+to+B+imagination+will+take+you+everywhere.;Lost+time+is+never+found+again.;Hustle+in+silence+let+success+make+the+noise.;Simplicity+is+key+to+beautiful+code.;What+we+think+we+become." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Waktu+terus+berjalan+tanpa+pernah+menunggu.;Be+a+voice+not+an+echo.;In+the+middle+of+difficulty+lies+opportunity.;Sebuah+kode+sejuta+cerita.;Make+it+simple+but+significant.;Logic+will+get+you+from+A+to+B+imagination+will+take+you+everywhere.;What+we+think+we+become." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
