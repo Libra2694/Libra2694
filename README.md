@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Make+it+simple+but+significant.;The+best+way+to+predict+the+future+is+to+invent+it.;Setiap+langkah+adalah+bagian+dari+cerita.;Satu+langkah+kecil+hari+ini+adalah+awal+lompatan+besar+esok+hari.;Before+software+can+be+reusable+it+first+has+to+be+usable.;Create+your+own+sunshine+on+cloudy+days.;Detail+kecil+menciptakan+kesempurnaan." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Time+is+a+river+of+passing+events.;Silence+is+the+canvas+of+deep+thoughts.;Logika+membimbing+langkah+imajinasi+menembus+batas.;In+the+middle+of+difficulty+lies+opportunity.;Simplicity+is+the+ultimate+sophistication.;Hidup+adalah+seni+menggambar+tanpa+penghapus.;Create+your+own+sunshine+on+cloudy+days." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
