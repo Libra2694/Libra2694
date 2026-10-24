@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Menanti+fajar+di+batas+cakrawala.;In+the+middle+of+difficulty+lies+opportunity.;Karya+terbaik+lahir+dari+ketekunan+tiada+henti.;Code+is+poetry+written+in+logic.;Fokus+pada+proses+hasil+takkan+mengkhianati.;Logic+will+get+you+from+A+to+B+imagination+will+take+you+everywhere.;Keberhasilan+dimulai+dari+keputusan+untuk+mencoba." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Terang+akan+datang+setelah+gulita.;What+we+think+we+become.;Setiap+langkah+adalah+bagian+dari+cerita.;The+best+way+to+predict+the+future+is+to+invent+it.;Code+never+lies+comments+sometimes+do.;Code+is+poetry+written+in+logic.;Karya+terbaik+lahir+dari+ketekunan+tiada+henti." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
