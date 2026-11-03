@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hustle+in+silence+let+success+make+the+noise.;Code+is+poetry+written+in+logic.;Karya+terbaik+lahir+dari+ketekunan+tiada+henti.;Strive+not+to+be+a+success+but+rather+to+be+of+value.;What+we+think+we+become.;Keberhasilan+dimulai+dari+keputusan+untuk+mencoba.;Lost+time+is+never+found+again." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Silence+is+the+canvas+of+deep+thoughts.;Mulailah+dari+mana+kamu+berada+gunakan+apa+yang+kamu+punya.;Hustle+in+silence+let+success+make+the+noise.;Sunyi+malam+adalah+teman+terbaik+sang+pemikir.;To+seek+is+to+find+to+build+is+to+live.;Sebuah+kode+sejuta+cerita.;Karya+terbaik+lahir+dari+ketekunan+tiada+henti." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
