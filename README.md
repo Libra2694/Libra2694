@@ -6,7 +6,7 @@
 <p align="center">
 <!-- STARTS_HERE_TYPING_SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Dalam+baris+kode+terdapat+bait-bait+harapan.;Menanti+fajar+di+batas+cakrawala.;Code+is+poetry+written+in+logic.;Setiap+langkah+adalah+bagian+dari+cerita.;Menulis+kode+membelah+sunyinya+malam.;Dalam+hening+kita+merajut+mimpi.;Secangkir+kopi+sebaris+kode+sejuta+mimpi." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Menulis+kode+membelah+sunyinya+malam.;Setiap+langkah+adalah+bagian+dari+cerita.;Create+your+own+sunshine+on+cloudy+days.;Time+is+a+river+of+passing+events.;Dream+without+fear+code+without+limits.;Simplicity+is+the+ultimate+sophistication.;Sebuah+kode+sejuta+cerita." alt="Typing SVG" />
   </a>
 <!-- ENDS_HERE_TYPING_SVG -->
 </p>
